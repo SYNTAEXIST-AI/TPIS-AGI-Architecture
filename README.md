@@ -90,6 +90,7 @@ AGI > [Structure (Order) -> Crystalline Grid] Actualization complete.
 
 
 7. Documentation & Research
+   
 
 1. Tri-Parametric Information Synthesis (TPIS) (Jan 10, 2026) | Zenodo DOI: 10.5281/zenodo.18384576
   * Core Contribution: Derives a_{th} and 1.58\times boost; redefines fundamental constants as informational bounds.
