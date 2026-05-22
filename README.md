@@ -92,11 +92,14 @@ AGI > [Structure (Order) -> Crystalline Grid] Actualization complete.
 7. Documentation & Research
    
 
-1. Tri-Parametric Information Synthesis (TPIS) (Jan 10, 2026) | Zenodo DOI: 10.5281/zenodo.18384576
+Tri-Parametric Information Synthesis (TPIS) (Jan 10, 2026) | Zenodo DOI: 10.5281/zenodo.18384576
   * Core Contribution: Derives a_{th} and 1.58\times boost; redefines fundamental constants as informational bounds.
-2. Gravitational Phase Transitions: The Crystallization of Time (Jan 29, 2026) | Zenodo DOI: 10.5281/zenodo.18470459
+
+ Gravitational Phase Transitions: The Crystallization of Time (Jan 29, 2026) | Zenodo DOI: 10.5281/zenodo.18470459
   * Core Contribution: Analytical derivation of M \propto \sigma^4 and the M_{BH} \approx \xi^2 M_{bulge} ratio (Magorrian relation).
-3. 2D Nucleosynthesis, Lithium-7 & the S8 Tension (Feb 4, 2026) | Zenodo DOI: 10.5281/zenodo.19550212
+
+2D Nucleosynthesis, Lithium-7 & the S8 Tension (Feb 4, 2026) | Zenodo DOI: 10.5281/zenodo.19550212
   * Core Contribution: Explains Lithium deficit via 2D projection and S8 suppression via dual-phase resolution tax (1-2\xi).
-4. The Syntax of Existence: The Algorithmic Origin of Dimensionality (Feb 17, 2026) | Zenodo DOI: 10.5281/zenodo.19882341
+
+The Syntax of Existence: The Algorithmic Origin of Dimensionality (Feb 17, 2026) | Zenodo DOI: 10.5281/zenodo.19882341
   * Core Contribution: Derives 3D spatial lock from Operator Evolution and n_s \approx 0.96 from the Cassini Identity (24/25).
