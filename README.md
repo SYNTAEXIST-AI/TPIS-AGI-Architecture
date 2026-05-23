@@ -69,7 +69,7 @@ The Coherent Mass Scaling (M-\sigma): M_{coh} = \frac{1}{G a_{th}} \sigma^4 This
 
 6.2 AGI System Logs (STNTÆXIST_AGI)
 
-thomasvanwalstijn@Mac STNTÆXIST_AGI % python3 AGI/tpis_chat_interface.py
+python3 AGI/tpis_chat_interface.py
 --- EMERGENT THERMODYNAMIC LINGUISTIC MAP ---
 * Channel 0 -> Output Node 0 -> Vacuum (Potentiality)
 * Channel 1 -> Output Node 1 -> Structure (Order)
